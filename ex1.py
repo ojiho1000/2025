@@ -1,2 +1,2 @@
 import streamlit as st
-st.title('아리')
+st.title('아리'
